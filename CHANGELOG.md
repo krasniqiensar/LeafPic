@@ -15,3 +15,5 @@ v0.7
 * Fixed crashes resuming from recents #475 #398
 * Fixed crashes KitKAT #418 #410
 * Improved opening from other apps #417 #403
+
+* Testing
